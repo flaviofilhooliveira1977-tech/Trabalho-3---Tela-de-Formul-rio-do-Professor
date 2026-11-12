@@ -14,9 +14,9 @@ Aplicação web desenvolvida para conectar estudantes e professores na plataform
 
 1. Clone o repositório:
    ```bash
-   git clone <URL_DO_SEU_REPOSITORIO>
-   cd proffy-web-2026
-   ```
+   git clone https://github.com/flaviofilhooliveira1977-tech/Trabalho-3---Tela-de-Formul-rio-do-Professor.git
+   cd Trabalho-3---Tela-de-Formul-rio-do-Professor
+   ```   
 
 2. Instale as dependências:
    ```bash
